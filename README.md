@@ -8,7 +8,7 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 
 **Props:**
 1. 9 different planets
-2. 9 natural satellites
+2. 9 natural satellites divided by colour (should go together with the host-planet colour)
 3. 4 levels of Protector-satellite
 4. Sun - the center of battlefield )
 5. Space-background
