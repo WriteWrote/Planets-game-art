@@ -27,3 +27,7 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 2. redraw previous satelite, making it more special in view
 3. sun
 4. cosmic space
+5. PairedPlanets: more liquid&sweety
+6. yellow planet with black grawing
+7. crystal planet (maybe fire inside, and the planet itself must be half-transparent)
+
