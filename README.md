@@ -23,7 +23,7 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 3. planned next 4 planets and stages of Protector-satellites
 
 **ToDo:**
-1. draw five pair planets-satellite
+1. draw four pair planets-satellite
 2. redraw previous satelite, making it more special in view
 3. sun
 4. cosmic space
