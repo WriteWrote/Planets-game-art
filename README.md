@@ -18,15 +18,16 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 2. Planets with circles around them
 
 **Progress:**
-1. first five planets
-2. five satellites for each planet
-3. planned next 4 planets and stages of Protector-satellites
+1. first six planets
+2. six satellites for each planet
+3. planned next 3 planets and stages of Protector-satellites
+NOTE: changes in plan: Protector-satellites will be as exemplars of one pattern, but with different colors. But the rest from simple satellites will have original shapes.
 
 **ToDo:**
 1. draw three pair planets-satellite
-2. redraw previous satelite, making it more special in view
-3. sun
-4. cosmic space
-5. yellow planet with black grawing
-6. crystal planet (maybe fire inside, and the planet itself must be half-transparent)
+2. sun
+3. cosmic space
+4. yellow planet with black grawing
+5. crystal planet (maybe fire inside, and the planet itself must be half-transparent)
+redraw previous satelite, making it more special in view
 
