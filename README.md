@@ -24,10 +24,9 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 NOTE: changes in plan: Protector-satellites will be as exemplars of one pattern, but with different colors. But the rest from simple satellites will have original shapes.
 
 **ToDo:**
-1. draw three pair planets-satellite
+1. draw two pair planets-satellite: still discussing design
 2. sun
 3. cosmic space
 4. yellow planet with black grawing
-5. crystal planet (maybe fire inside, and the planet itself must be half-transparent)
-redraw previous satelite, making it more special in view
+5. redraw previous satelite, making it more special in view
 
