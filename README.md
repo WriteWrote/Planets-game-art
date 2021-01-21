@@ -16,17 +16,16 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 **Wishes:**
 1. Original satellites for each type of planet
 2. Planets with circles around them
+3. four stages of Protector-satellite
 
 **Progress:**
-1. first six planets
-2. six satellites for each planet
-3. planned next 3 planets and stages of Protector-satellites
-NOTE: changes in plan: Protector-satellites will be as exemplars of one pattern, but with different colors. But the rest from simple satellites will have original shapes.
+1. first seven planets
+2. seven satellites for each planet
+3. planned next 1 planets and stages of Protector-satellites are changed on one type of Protector, just coloured differently
+NOTE: changes in plan: Protector-satellites will be as exemplares of one pattern, but with different colors. But the rest of simple satellites will have original shapes.
 
 **ToDo:**
-1. draw two pair planets-satellite: still discussing design
-2. sun
+1. draw one more questionable planet
+2. draw one half-Eden & half-destroyed planet
 3. cosmic space
-4. yellow planet with black grawing
-5. redraw previous satelite, making it more special in view
-
+4. draw one type of Protector-satellite for prodaction
