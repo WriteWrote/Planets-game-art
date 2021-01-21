@@ -19,13 +19,12 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 3. four stages of Protector-satellite
 
 **Progress:**
-1. first seven planets
+1. first eight planets
 2. seven satellites for each planet
 3. planned next 1 planets and stages of Protector-satellites are changed on one type of Protector, just coloured differently
 NOTE: changes in plan: Protector-satellites will be as exemplares of one pattern, but with different colors. But the rest of simple satellites will have original shapes.
 
 **ToDo:**
 1. draw one more questionable planet
-2. draw one half-Eden & half-destroyed planet
-3. cosmic space
-4. draw one type of Protector-satellite for prodaction
+2. cosmic space
+3. draw one type of Protector-satellite for prodaction
