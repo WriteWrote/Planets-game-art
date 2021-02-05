@@ -19,10 +19,8 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 
 **Progress:**
 1. first nine planets
-2. eight satellites for each planet
-3. stages of Protector-satellites are changed on one type of Protector, just coloured differently
+2. nine satellites for each planet
+3. Protector-satellite finished and colored for four special planets
 
 **ToDo:**
-1. draw one more satellite
-2. cosmic space
-3. draw one type of Protector-satellite for prodaction
+cosmic space
