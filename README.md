@@ -24,3 +24,5 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 4. Backgroud
 
 **Completed: 100% (excluded wishes)**
+
+https://github.com/WriteWrote/Planets-game-art/blob/2dae163d0eb89784f13e78358928d550cdad92b6/result/result.png
