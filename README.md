@@ -1,5 +1,5 @@
 # Planets-game-art
-Props for small indi-game
+Props for small mobile indi-game
 
 **Completed set of planets**
 
@@ -11,7 +11,7 @@ Props for small indi-game
 
 
 **Story:**
-The main idea lays in concept of solar system, where exist the precious planets, which should be protected from invasion.
+The main idea lays in concept of solar system, where the precious planets exist, which should be protected from invasion.
 Each planet has a natural satellite.
 For protecting a planet gamer should post a techno Protector-satellite. Protectors can be upgraded up to four level of toughness.
 
