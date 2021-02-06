@@ -21,6 +21,4 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 1. first nine planets
 2. nine satellites for each planet
 3. Protector-satellite finished and colored for four special planets
-
-**ToDo:**
-cosmic space
+4. Backgroud
