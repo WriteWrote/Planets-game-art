@@ -26,3 +26,5 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 **Completed: 100% (excluded wishes)**
 
 https://github.com/WriteWrote/Planets-game-art/blob/2dae163d0eb89784f13e78358928d550cdad92b6/result/result.png
+
+![alt tag](https://github.com/WriteWrote/Planets-game-art/blob/2dae163d0eb89784f13e78358928d550cdad92b6/result/result.png "Описание будет тут")​
