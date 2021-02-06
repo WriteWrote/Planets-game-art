@@ -1,9 +1,10 @@
+![Иллюстрация к проекту](https://github.com/WriteWrote/Planets-game-art/blob/2dae163d0eb89784f13e78358928d550cdad92b6/result/result.png)
 # Planets-game-art
 Props for small indi-game
 
 **Completed set of planets**
 ![alt tag](https://github.com/WriteWrote/Planets-game-art/blob/2dae163d0eb89784f13e78358928d550cdad92b6/result/result.png "Completed set of planets")​
-**Example of background w/ come planets**
+**Example of background w/ some planets**
 ![alt tag](https://github.com/WriteWrote/Planets-game-art/blob/2dae163d0eb89784f13e78358928d550cdad92b6/result/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80.png "Example")​
 
 
