@@ -33,4 +33,4 @@ For protecting a planet gamer should post a techno Protector-satellite. Protecto
 4. Backgroud
 
 
-**Completed: 100% (excluded wishes)**
+# Completed: 100% (excluded wishes)
